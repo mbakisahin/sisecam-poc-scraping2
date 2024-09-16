@@ -1,0 +1,38 @@
+Name: resmigazeteWebScraping.py
+Link: https://www.resmigazete.gov.tr/
+Limited page number: 1
+Keywords:
+Çevre
+Su
+Atıksu
+Hava Emisyonu
+Atık Bertarafı
+REACH
+KKDİK
+
+Name: eur_lexWebScraping.py
+Link: https://eur-lex.europa.eu/homepage.html
+Limited page number: 1
+Keywords:
+Environment
+Water
+Wastewater
+Air emission
+Waste disposal
+substance very high concern (SVHC)
+REACH
+KKDİ
+
+Name: echaWebScraping.py
+Link: https://echa.europa.eu/en/home
+Limited page number: 1
+Keywords:
+Environment
+Water
+Wastewater
+Air emission
+Waste disposal
+substance very high concern (SVHC)
+REACH
+KKDİ
+
